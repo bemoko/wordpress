@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<methodResponse>
+  <params>
+    <param>
+      <value>
+        <array><data>
+  <value><struct>
+  <member><name>dateCreated</name><value><dateTime.iso8601>20100115T16:43:01</dateTime.iso8601></value></member>
+  <member><name>userid</name><value><string>3</string></value></member>
+  <member><name>postid</name><value><string>825</string></value></member>
+  <member><name>description</name><value><string>Test description 1</string></value></member>
+  <member><name>title</name><value><string>Test post 1</string></value></member>
+  <member><name>link</name><value><string>http://blog.bemoko.com/?p=825</string></value></member>
+  <member><name>permaLink</name><value><string>http://blog.bemoko.com/?p=825</string></value></member>
+  <member><name>categories</name><value><array><data>
+  <value><string>mobile</string></value>
+</data></array></value></member>
+  <member><name>mt_excerpt</name><value><string></string></value></member>
+  <member><name>mt_text_more</name><value><string></string></value></member>
+  <member><name>mt_allow_comments</name><value><int>1</int></value></member>
+  <member><name>mt_allow_pings</name><value><int>1</int></value></member>
+  <member><name>mt_keywords</name><value><string></string></value></member>
+  <member><name>wp_slug</name><value><string></string></value></member>
+  <member><name>wp_password</name><value><string></string></value></member>
+  <member><name>wp_author_id</name><value><string>3</string></value></member>
+  <member><name>wp_author_display_name</name><value><string>Tim Avery</string></value></member>
+  <member><name>date_created_gmt</name><value><dateTime.iso8601>20100115T16:43:01</dateTime.iso8601></value></member>
+  <member><name>post_status</name><value><string>draft</string></value></member>
+  <member><name>custom_fields</name><value><array><data>
+  <value><struct>
+  <member><name>id</name><value><string>2568</string></value></member>
+  <member><name>key</name><value><string>aktt_notify_twitter</string></value></member>
+  <member><name>value</name><value><string>yes</string></value></member>
+</struct></value>
+  <value><struct>
+  <member><name>id</name><value><string>2570</string></value></member>
+  <member><name>key</name><value><string>_edit_last</string></value></member>
+  <member><name>value</name><value><string>4</string></value></member>
+</struct></value>
+  <value><struct>
+  <member><name>id</name><value><string>2569</string></value></member>
+  <member><name>key</name><value><string>_edit_lock</string></value></member>
+  <member><name>value</name><value><string>1263803905</string></value></member>
+</struct></value>
+</data></array></value></member>
+</struct></value>
+  <value><struct>
+  <member><name>dateCreated</name><value><dateTime.iso8601>20100111T15:30:09</dateTime.iso8601></value></member>
+  <member><name>userid</name><value><string>4</string></value></member>
+  <member><name>postid</name><value><string>741</string></value></member>
+  <member><name>description</name><value><string>Test description 2</string></value></member>
+  <member><name>title</name><value><string>20 Years of mobiles</string></value></member>
+  <member><name>link</name><value><string>http://blog.bemoko.com/?p=741</string></value></member>
+  <member><name>permaLink</name><value><string>http://blog.bemoko.com/?p=741</string></value></member>
+  <member><name>categories</name><value><array><data>
+  <value><string>mobile</string></value>
+</data></array></value></member>
+  <member><name>mt_excerpt</name><value><string></string></value></member>
+  <member><name>mt_text_more</name><value><string></string></value></member>
+  <member><name>mt_allow_comments</name><value><int>1</int></value></member>
+  <member><name>mt_allow_pings</name><value><int>1</int></value></member>
+  <member><name>mt_keywords</name><value><string></string></value></member>
+  <member><name>wp_slug</name><value><string>Test post 2</string></value></member>
+  <member><name>wp_password</name><value><string></string></value></member>
+  <member><name>wp_author_id</name><value><string>4</string></value></member>
+  <member><name>wp_author_display_name</name><value><string>Ian Walsh</string></value></member>
+  <member><name>date_created_gmt</name><value><dateTime.iso8601>20100111T15:30:09</dateTime.iso8601></value></member>
+  <member><name>post_status</name><value><string>draft</string></value></member>
+  <member><name>custom_fields</name><value><array><data>
+  <value><struct>
+  <member><name>id</name><value><string>2491</string></value></member>
+  <member><name>key</name><value><string>aktt_notify_twitter</string></value></member>
+  <member><name>value</name><value><string>yes</string></value></member>
+</struct></value>
+  <value><struct>
+  <member><name>id</name><value><string>2493</string></value></member>
+  <member><name>key</name><value><string>_edit_last</string></value></member>
+  <member><name>value</name><value><string>3</string></value></member>
+</struct></value>
+  <value><struct>
+  <member><name>id</name><value><string>2492</string></value></member>
+  <member><name>key</name><value><string>_edit_lock</string></value></member>
+  <member><name>value</name><value><string>1263573306</string></value></member>
+</struct></value>
+</data></array></value></member>
+</struct></value>
+  <value><struct>
+  <member><name>dateCreated</name><value><dateTime.iso8601>20100110T10:11:00</dateTime.iso8601></value></member>
+  <member><name>userid</name><value><string>1</string></value></member>
+  <member><name>postid</name><value><string>740</string></value></member>
+  <member><name>description</name><value><string>Test description 3</string></value></member>
+  <member><name>title</name><value><string>Test post 3</string></value></member>
+  <member><name>link</name><value><string>http://blog.bemoko.com/?p=740</string></value></member>
+  <member><name>permaLink</name><value><string>http://blog.bemoko.com/?p=740</string></value></member>
+  <member><name>categories</name><value><array><data>
+  <value><string>Uncategorized</string></value>
+</data></array></value></member>
+  <member><name>mt_excerpt</name><value><string></string></value></member>
+  <member><name>mt_text_more</name><value><string></string></value></member>
+  <member><name>mt_allow_comments</name><value><int>1</int></value></member>
+  <member><name>mt_allow_pings</name><value><int>1</int></value></member>
+  <member><name>mt_keywords</name><value><string></string></value></member>
+  <member><name>wp_slug</name><value><string>twitter-weekly-updates-for-2010-01-10</string></value></member>
+  <member><name>wp_password</name><value><string></string></value></member>
+  <member><name>wp_author_id</name><value><string>1</string></value></member>
+  <member><name>wp_author_display_name</name><value><string>bemoko</string></value></member>
+  <member><name>date_created_gmt</name><value><dateTime.iso8601>20100110T10:11:00</dateTime.iso8601></value></member>
+  <member><name>post_status</name><value><string>draft</string></value></member>
+  <member><name>custom_fields</name><value><array><data>
+  <value><struct>
+  <member><name>id</name><value><string>2504</string></value></member>
+  <member><name>key</name><value><string>aktt_notify_twitter</string></value></member>
+  <member><name>value</name><value><string>yes</string></value></member>
+</struct></value>
+  <value><struct>
+  <member><name>id</name><value><string>2490</string></value></member>
+  <member><name>key</name><value><string>aktt_tweeted</string></value></member>
+  <member><name>value</name><value><string>1</string></value></member>
+</struct></value>
+  <value><struct>
+  <member><name>id</name><value><string>2511</string></value></member>
+  <member><name>key</name><value><string>_edit_last</string></value></member>
+  <member><name>value</name><value><string>4</string></value></member>
+</struct></value>
+  <value><struct>
+  <member><name>id</name><value><string>2510</string></value></member>
+  <member><name>key</name><value><string>_edit_lock</string></value></member>
+  <member><name>value</name><value><string>1265121610</string></value></member>
+</struct></value>
+</data></array></value></member>
+</struct></value>
+</data></array>
+      </value>
+    </param>
+  </params>
+</methodResponse>

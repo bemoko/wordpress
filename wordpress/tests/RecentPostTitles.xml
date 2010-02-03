@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<methodResponse>
+  <params>
+    <param>
+      <value>
+        <array><data>
+  <value><struct>
+  <member><name>dateCreated</name><value><dateTime.iso8601>20100115T16:43:01</dateTime.iso8601></value></member>
+  <member><name>userid</name><value><string>3</string></value></member>
+  <member><name>postid</name><value><string>825</string></value></member>
+  <member><name>title</name><value><string>Test post 1</string></value></member>
+  <member><name>date_created_gmt</name><value><dateTime.iso8601>20100115T16:43:01</dateTime.iso8601></value></member>
+</struct></value>
+  <value><struct>
+  <member><name>dateCreated</name><value><dateTime.iso8601>20100111T15:30:09</dateTime.iso8601></value></member>
+  <member><name>userid</name><value><string>4</string></value></member>
+  <member><name>postid</name><value><string>741</string></value></member>
+  <member><name>title</name><value><string>Test post 2</string></value></member>
+  <member><name>date_created_gmt</name><value><dateTime.iso8601>20100111T15:30:09</dateTime.iso8601></value></member>
+</struct></value>
+  <value><struct>
+  <member><name>dateCreated</name><value><dateTime.iso8601>20100110T10:11:00</dateTime.iso8601></value></member>
+  <member><name>userid</name><value><string>1</string></value></member>
+  <member><name>postid</name><value><string>740</string></value></member>
+  <member><name>title</name><value><string>Test post 3</string></value></member>
+  <member><name>date_created_gmt</name><value><dateTime.iso8601>20100110T10:11:00</dateTime.iso8601></value></member>
+</struct></value>
+</data></array>
+      </value>
+    </param>
+  </params>
+</methodResponse>
